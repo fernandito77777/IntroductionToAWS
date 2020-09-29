@@ -1,6 +1,6 @@
 # Windows Virtual Machine (EC2) in cloud 
 
-1. Go to [EC2 Console](https://ap-southeast-1.console.aws.amazon.com/console/home?region=ap-southeast-1)
+1. Go to [AWS Console](https://ap-southeast-1.console.aws.amazon.com/console/home?region=ap-southeast-1)
 2. Type `EC2` and click the EC2 menu
     ![](../images/EC2/2.png)
 3. Click `Instances` at the left menu
